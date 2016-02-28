@@ -1,0 +1,1 @@
+/home/oglop/.mozilla/firefox/8efzdhoe.default/gm_scripts/Gmail_Strikethrough+insertImg_Button/Gmail_Strikethrough+insertImg_Button.user.js
