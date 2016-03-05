@@ -97,7 +97,7 @@ var gmailStrikeThroughButton = {
             bgImage.style.backgroundSize = "20px 20px";
             // on hidpi screen, there is a aaB attribute which will override the icon with a B
             bgImage.setAttribute("class", "fu aaA");
-            insertImgButton.addEventListener("click", gmailStrikeThroughButton.insertImg, false);
+            insertImgButton.addEventListener("mousedown", gmailStrikeThroughButton.insertImg, false);
             imageButton.parentNode.insertBefore(insertImgButton, imageButton.nextSibling);
         }
     },
